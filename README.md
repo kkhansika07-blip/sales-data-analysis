@@ -58,6 +58,9 @@ otebooks/sales_data_analysis.ipynb covers:
 
 ## Future Work
 
+- Add more visualizations and insights
+
+
 - Expand dataset with more rows for deeper analysis
 - Add time-series analysis for monthly trends
 - Include profit calculations
